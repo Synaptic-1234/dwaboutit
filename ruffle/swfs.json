@@ -1,7 +1,7 @@
 {
   "swfs": [
     {
-      "location": "logo-anim.swf",
+      "location": "https://cdn.jsdelivr.net/gh/Synaptic-1234/dwaboutit@latest/ruffle/logo-anim.swf",
       "title": "Ruffle Logo",
       "author": "Ruffle contributors",
       "authorLink": "https://ruffle.rs",
