@@ -1,7 +1,7 @@
 {
   "swfs": [
     {
-      "location": "./logo-anim.swf",
+      "location": "https://cdn.statically.io/gh/Synaptic-1234/dwaboutit@5fe1476/ruffle/logo-anim.swf",
       "title": "Portal The Flash Version",
       "author": "We Create Stuff",
       "authorLink": "https://wecreatestuff.com",
