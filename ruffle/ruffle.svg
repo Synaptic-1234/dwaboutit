@@ -4,7 +4,7 @@
   <foreignObject x="0" y="0" width="100%" height="100%">
     <body xmlns="http://www.w3.org/1999/xhtml">
 	 <iframe style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;" id="test"></iframe>
-         <script>let l = atob("PHNjcmlwdD5kb2N1bWVudC5vcGVuKCk7ZG9jdW1lbnQud3JpdGUoJzxodG1sIGxhbmc9ZW4+PG1ldGEgY2hhcnNldD1VVEYtOD48bGluayBocmVmPS4vaWNvbjMyLnBuZyByZWw9aWNvbiBzaXplcz0zMngzMj48bGluayBocmVmPS4vaWNvbjE4MC5wbmcgcmVsPWljb24gc2l6ZXM9MTgweDE4MD48bWV0YSBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsaW5pdGlhbC1zY2FsZT0xIm5hbWU9dmlld3BvcnQ+PHRpdGxlPlJ1ZmZsZSBQbGF5ZXI8L3RpdGxlPjxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPS4vYXNzZXRzL2luZGV4LmpzIHR5cGU9bW9kdWxlPjwvc2NyaXB0PjxsaW5rIGhyZWY9Li9hc3NldHMvaW5kZXgtQndUSm4tSEwuY3NzIHJlbD1zdHlsZXNoZWV0IGNyb3Nzb3JpZ2luPjxkaXYgaWQ9cm9vdD48L2Rpdj4nKTtkb2N1bWVudC5jbG9zZSgpOzwvc2NyaXB0Pg=="); var theIframe = document.getElementById('test'); theIframe.srcdoc = l;</script>
+         <script>let l = atob("PGh0bWwgbGFuZz1lbj48bWV0YSBjaGFyc2V0PVVURi04PjxsaW5rIGhyZWY9Li9pY29uMzIucG5nIHJlbD1pY29uIHNpemVzPTMyeDMyPjxsaW5rIGhyZWY9Li9pY29uMTgwLnBuZyByZWw9aWNvbiBzaXplcz0xODB4MTgwPjxtZXRhIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCxpbml0aWFsLXNjYWxlPTEibmFtZT12aWV3cG9ydD48dGl0bGU+UnVmZmxlIFBsYXllcjwvdGl0bGU+PHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Li9hc3NldHMvaW5kZXguanMgdHlwZT1tb2R1bGU+PC9zY3JpcHQ+PGxpbmsgaHJlZj0uL2Fzc2V0cy9pbmRleC1Cd1RKbi1ITC5jc3MgcmVsPXN0eWxlc2hlZXQgY3Jvc3NvcmlnaW4+PGRpdiBpZD1yb290PjwvZGl2PjwvaHRtbD4="); var theIframe = document.getElementById('test'); theIframe.srcdoc = l;</script>
     </body>
   </foreignObject>
 </svg>
