@@ -1,7 +1,7 @@
 {
   "swfs": [
     {
-      "location": "./logo-anim.swf",
+      "location": "./logo-anim.js",
       "title": "Portal The Flash Version",
       "author": "We Create Stuff",
       "authorLink": "https://wecreatestuff.com",
