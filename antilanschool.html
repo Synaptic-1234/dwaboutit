@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <script>
+        const params = new URLSearchParams(document.location.search); 
+        var port = params.get("port");
+        if (port == undefined || null){
+            port = 56797;
+        }
+        
+        
+        function spamApi(){
+            try{
+            
+                url = "https://" +Math.floor(Math.random() * (10000000000 - 10000000) + 10000000) + ".com";
+                realSite = "http://localhost:" + port + "/WebLimit";
+                fetch(realSite, { method: 'POST', body: JSON.stringify({"url":url}) });
+            }
+            catch{
+                console.log("a");
+            }
+        }
+            
+        
+        setInterval(spamApi,1);
+        
+
+        
+        
+        
+        
+        
+        </script>
+    </head>
+    <body>
+        <h1 id=a>Apple</h1>
+    </body>
+    <script>
+        const temp = document.getElementById("a")
+        temp.textContent = port;
+    </script>
+</html>
